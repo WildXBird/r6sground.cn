@@ -1,0 +1,10 @@
+{
+    "name": "Rainbow Six Sieges Troubling Truth",
+    "url": "https://www.youtube.com/watch?v=lGYu0mSHMMQ",
+    "isNonProfit": true,
+    "acc": {
+        "name": "Ubisoft North America",
+        "country": "ÖÐ¹ú"
+    },
+    "des": "Watch this to learn everything you need to know to get a headstart if you¡¯re just starting to play Rainbow Six Siege!"
+}
