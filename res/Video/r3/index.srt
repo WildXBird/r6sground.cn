@@ -1,0 +1,480 @@
+﻿1
+00:00:03,830 --> 00:00:05,660
+Chris Watters: Operation Phantom Sight
+
+2
+00:00:05,660 --> 00:00:08,240
+is coming to Rainbow 6 Siege.
+
+3
+00:00:08,240 --> 00:00:12,169
+The Phantom in this title is Nokk, an attacker
+
+4
+00:00:12,169 --> 00:00:15,080
+who uses her gadget to muffle her footsteps,
+
+5
+00:00:15,080 --> 00:00:17,030
+keep herself out of the spotlight,
+
+6
+00:00:17,030 --> 00:00:19,010
+and creep everyone right out.
+
+7
+00:00:22,230 --> 00:00:26,370
+The Sight is Warden, a sharp dressed defender
+
+8
+00:00:26,370 --> 00:00:30,179
+whose glasses allow him to resist or recover from flashes
+
+9
+00:00:30,179 --> 00:00:34,049
+and to see more clearly when things get smoky.
+
+10
+00:00:34,049 --> 00:00:36,750
+We'll give you the details on these two new operators
+
+11
+00:00:36,750 --> 00:00:41,490
+and show you around the newly renovated Cafe Dostoyevsky,
+
+12
+00:00:41,490 --> 00:00:45,280
+no reservation necessary.
+
+13
+00:00:45,280 --> 00:00:49,179
+First, let's meet the guy in the tie, Warden.
+
+14
+00:00:49,179 --> 00:00:52,299
+Fresh off a stint with the United States Secret Service,
+
+15
+00:00:52,299 --> 00:00:55,149
+Warden is a dapper defender who accessorizes
+
+16
+00:00:55,149 --> 00:00:59,619
+with his Glance smart glasses and a snazzy statement watch.
+
+17
+00:00:59,619 --> 00:01:03,519
+When things start popping off, Warden switches
+
+18
+00:01:03,520 --> 00:01:06,969
+glasses on to accomplish all of the following.
+
+19
+00:01:06,969 --> 00:01:10,239
+Number one, make himself immune to flashes.
+
+20
+00:01:10,239 --> 00:01:14,649
+Number two, remove any flash he is currently affected by.
+
+21
+00:01:14,650 --> 00:01:18,040
+Number three, give him clearer sight through smoke.
+
+22
+00:01:18,040 --> 00:01:22,180
+And number four, add some high tech panache to his I
+
+23
+00:01:22,180 --> 00:01:25,000
+just killed you scream.
+
+24
+00:01:25,000 --> 00:01:27,219
+You can manually deactivate the glasses
+
+25
+00:01:27,219 --> 00:01:30,370
+or wait until they run out of juice and need to recharge.
+
+26
+00:01:30,370 --> 00:01:32,369
+Either way, there is a fixed cool down
+
+27
+00:01:32,569 --> 00:01:34,359
+before you can activate them again.
+
+28
+00:01:34,359 --> 00:01:36,370
+But there's no limit to how many times
+
+29
+00:01:36,370 --> 00:01:38,140
+you can use them in a match.
+
+30
+00:01:38,140 --> 00:01:41,349
+With his glasses active, Warden is a strong counter
+
+31
+00:01:41,349 --> 00:01:43,539
+against any smoke and flash party
+
+32
+00:01:43,540 --> 00:01:46,340
+that the attackers try to throw.
+
+33
+00:01:46,340 --> 00:01:48,969
+If Blitz gets frisky or Ying lights
+
+34
+00:01:48,969 --> 00:01:51,280
+up a whole mess of Candelas, Warden
+
+35
+00:01:51,280 --> 00:01:53,140
+will be having none of it.
+
+36
+00:01:53,140 --> 00:01:55,030
+Even Glaz will have to think twice
+
+37
+00:01:55,030 --> 00:01:58,120
+about setting up behind his precious smoke screen,
+
+38
+00:01:58,120 --> 00:02:00,010
+though he still has an edge on Warden
+
+39
+00:02:00,010 --> 00:02:02,989
+with his bigger scope and thermal detection.
+
+40
+00:02:03,189 --> 00:02:06,549
+Note that the smoke filtering feature on Warden's glasses
+
+41
+00:02:06,549 --> 00:02:10,359
+is less effective if he's moving, so picking smart angles
+
+42
+00:02:10,360 --> 00:02:13,180
+and repositioning quickly are vital to making
+
+43
+00:02:13,180 --> 00:02:14,800
+the most of his gadget.
+
+44
+00:02:14,800 --> 00:02:16,719
+And while his glasses are active,
+
+45
+00:02:16,719 --> 00:02:18,460
+you'll need to watch out for the gadget
+
+46
+00:02:18,460 --> 00:02:23,349
+disabling and gadget detecting powers of Thatcher and IQ.
+
+47
+00:02:23,349 --> 00:02:27,939
+But as a high armor, low speed operator wielding either an MPX
+
+48
+00:02:27,939 --> 00:02:32,379
+submachine gun or an M590A1 shotgun,
+
+49
+00:02:32,379 --> 00:02:37,180
+Warden makes for a strong anchor and he looks good doing it.
+
+50
+00:02:37,180 --> 00:02:41,050
+Hailing from a different quadrant of the fashion galaxy,
+
+51
+00:02:41,050 --> 00:02:42,280
+we have Nook.
+
+52
+00:02:42,280 --> 00:02:44,650
+This attacker from Denmark's Jaeger Corps
+
+53
+00:02:44,650 --> 00:02:47,810
+may have an eye-catchingly eerie get up
+
+54
+00:02:48,009 --> 00:02:50,979
+but she would actually prefer it if you didn't notice her
+
+55
+00:02:50,979 --> 00:02:52,209
+at all.
+
+56
+00:02:52,210 --> 00:02:57,099
+So when her hell presence reduction gadget is active,
+
+57
+00:02:57,099 --> 00:03:00,639
+you won't hear her footsteps and you won't see any sign of her
+
+58
+00:03:00,639 --> 00:03:02,829
+on camera feeds.
+
+59
+00:03:02,830 --> 00:03:04,870
+It's a little spooky.
+
+60
+00:03:04,870 --> 00:03:07,090
+And with all the different potential camera
+
+61
+00:03:07,090 --> 00:03:09,500
+feeds available to defenders these days,
+
+62
+00:03:09,699 --> 00:03:14,949
+Nokk's ability to hide from them all is all the more alarming.
+
+63
+00:03:14,949 --> 00:03:18,549
+Her gadget runs off a recharging meter like Warden's glasses
+
+64
+00:03:18,550 --> 00:03:21,481
+but, unlike Warden's glasses, there's no required cool
+
+65
+00:03:21,681 --> 00:03:25,839
+down so Nook can turn her gadget on and off and on again
+
+66
+00:03:25,840 --> 00:03:27,969
+whenever she has the juice to run it,
+
+67
+00:03:27,969 --> 00:03:32,259
+giving her more tactical flexibility.
+
+68
+00:03:32,259 --> 00:03:34,750
+And activating her gadget doesn't require
+
+69
+00:03:34,750 --> 00:03:37,060
+her to change weapons, so she can
+
+70
+00:03:37,060 --> 00:03:42,159
+continue wielding her primary, an FMG9 submachine gun or 612SD
+
+71
+00:03:42,159 --> 00:03:45,939
+shotgun, or her secondary, a Five-SeveN USG
+
+72
+00:03:45,939 --> 00:03:49,810
+pistol or a D50 pistol with an equippable suppressor.
+
+73
+00:03:49,810 --> 00:03:53,800
+This makes Nokk a formidable flanking and fragging threat
+
+74
+00:03:53,800 --> 00:03:57,900
+though, like any operator, she has her limitations.
+
+75
+00:03:58,099 --> 00:04:01,719
+Nokk's gadget will glitch and be visible on camera
+
+76
+00:04:01,719 --> 00:04:06,250
+feeds if she performs basically any action except moving
+
+77
+00:04:06,250 --> 00:04:08,770
+at a normal speed or slower, crouching
+
+78
+00:04:08,770 --> 00:04:12,650
+and moving, or reloading or swapping weapons.
+
+79
+00:04:12,849 --> 00:04:15,310
+You can also keep an eye out for environmental clues,
+
+80
+00:04:15,310 --> 00:04:18,370
+like breach debris moving of its own accord.
+
+81
+00:04:18,370 --> 00:04:20,709
+Or you could take a more proactive approach
+
+82
+00:04:20,709 --> 00:04:23,800
+and throw down some barbed wire razor wire.
+
+83
+00:04:23,800 --> 00:04:26,949
+Nokk will glitch while passing through it.
+
+84
+00:04:26,949 --> 00:04:29,379
+If you really want to make things tricky for Nokk,
+
+85
+00:04:29,379 --> 00:04:31,540
+take Lesion and his goo mines.
+
+86
+00:04:31,540 --> 00:04:33,430
+She'll glitch when she steps on one,
+
+87
+00:04:33,430 --> 00:04:35,199
+glitch every time she takes damage,
+
+88
+00:04:35,199 --> 00:04:37,449
+and glitch while she pulls out the needle.
+
+89
+00:04:37,449 --> 00:04:40,569
+Aside from the glitch, the only other camera interference
+
+90
+00:04:40,569 --> 00:04:42,909
+that will let you know Nokk is nearby
+
+91
+00:04:42,910 --> 00:04:45,079
+is this wave form effect that appears
+
+92
+00:04:45,279 --> 00:04:50,139
+when using Mozzie's hacked drones or Echo's Yokai.
+
+93
+00:04:50,139 --> 00:04:53,079
+Every other camera will have a hard time seeing,
+
+94
+00:04:53,079 --> 00:04:54,699
+and your ears will have a hard time
+
+95
+00:04:54,699 --> 00:04:57,639
+hearing, this medium speed, medium armor attacker.
+
+96
+00:05:00,509 --> 00:05:02,939
+Team Nokk up with a roamer hunting operator
+
+97
+00:05:02,939 --> 00:05:05,399
+or take her on a sneaky flanking route
+
+98
+00:05:05,399 --> 00:05:07,049
+and you've got a powerful new way
+
+99
+00:05:07,050 --> 00:05:10,410
+to unsettle the defending team.
+
+100
+00:05:10,410 --> 00:05:12,870
+The map you've been seeing here may look familiar.
+
+101
+00:05:12,870 --> 00:05:16,389
+It's Cafe Dostoyevsky or Cafe to its friends.
+
+102
+00:05:16,589 --> 00:05:19,769
+The seige team has renovated this lovely three story
+
+103
+00:05:19,769 --> 00:05:22,589
+gathering spot, creating new bomb sites,
+
+104
+00:05:22,589 --> 00:05:26,159
+making old sites more viable, and generally sprucing things
+
+105
+00:05:26,160 --> 00:05:29,040
+up for more balanced encounters.
+
+106
+00:05:29,040 --> 00:05:31,980
+For example, enter through the new reception area and you'll
+
+107
+00:05:31,980 --> 00:05:34,290
+find a stairwell has moved, opening up
+
+108
+00:05:34,290 --> 00:05:37,480
+new possibilities for opening up the reading room.
+
+109
+00:05:37,480 --> 00:05:41,220
+The kitchen area has been extensively remodeled and given
+
+110
+00:05:41,220 --> 00:05:42,389
+a festive touch.
+
+111
+00:05:42,589 --> 00:05:44,399
+And there's even been some light roof work.
+
+112
+00:05:46,920 --> 00:05:50,199
+The shiny new cafe map will replace the old cafe map
+
+113
+00:05:50,399 --> 00:05:53,789
+for free when Operation Phantom Sight launches.
+
+114
+00:05:53,790 --> 00:05:56,160
+The two new operators, Warden and Nokk,
+
+115
+00:05:56,160 --> 00:05:59,220
+will be available at launch for Year Four pass owners
+
+116
+00:05:59,220 --> 00:06:01,750
+and unlockable for all players seven days later
+
+117
+00:06:01,949 --> 00:06:04,829
+by using Renown or R6 credits.
+
+118
+00:06:04,829 --> 00:06:07,740
+For more on Rainbow Six Siege, subscribe to this channel
+
+119
+00:06:07,740 --> 00:06:10,819
+and visit us at news.Ubisoft.com.
+
+120
+00:06:10,819 --> 00:06:15,819
+[MUSIC PLAYING]
+
