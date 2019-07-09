@@ -1,0 +1,669 @@
+body {
+    background: #000000 url(https://cdn.jsdelivr.net/gh/xieqiqiang00/r6sground.cn/res/assets/backgrounds/R6_BRAND_Y3S2_IMG.jpg) fixed center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font: normal normal 14px/1 'scout', Arial, sans-serif;
+    color: #FFFFFF;
+    color: rgba(255,255,255,0.9);
+    padding: 100px 0 0 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font: normal normal 24px/1 "scout-bold", Arial;
+    margin: 0 0 10px 0;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, .9);
+}
+
+h3 {
+    font: normal normal 22px/1 "scout-bold", Arial;
+    margin-bottom: 10px;
+}
+
+h4 {
+    font: normal normal 18px/1 "scout-bold", Arial;
+    margin-bottom: 10px;
+    color: #FF7F14;
+}
+
+p {
+    line-height: 1.3;
+}
+
+.pageTitle {
+    height: 78px;
+    line-height: 78px;
+}
+
+span.consoleTitle {
+    height: 35px;
+    font-family: "scout-bold", Arial;
+    font-size: 19px;
+    line-height: 35px;
+    text-transform: uppercase;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.footerItem {
+    /*display: inline-block;*/
+    /*margin: 0 7px;*/
+    vertical-align: middle;
+}
+
+.footerItems {
+    text-align: center;
+    font-size: 0;
+    /*width: 1250px;*/
+}
+
+span.legend {
+    /*height: 50px;*/
+    font-family: "scout-bold", Arial;
+    font-size: 16px;
+    /*line-height: 24px;*/
+    /*text-transform: uppercase;*/
+    vertical-align: middle;
+}
+
+.legendIcon {
+    width: 18px;
+    height: 18px;
+}
+
+.legendDarkText {
+    color: black;
+    margin: -10px -10px 25px -10px;
+}
+
+.legendVerticalLine {
+    border-right: 1px solid #000000;
+    /*height: 36px;*/
+}
+
+.nonews {
+    text-align: center;
+    font-family: "scout", Arial;
+    font-size: 16px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 180px;
+}
+
+.degraded {
+    background-color: #FBC900;
+    color: #ffffff;
+}
+
+.interrupted {
+    background-color: #F80303;
+    color: #ffffff;
+}
+
+.online {
+    background-color: #95C11F;
+    color: #ffffff;
+}
+
+.maintenance {
+    background-color: #333740;
+    color: #ffffff;
+}
+
+.headerMargin {
+    margin-bottom: 125px;
+}
+
+.button {
+    display: block;
+    width: 100%;
+    height: 40px;
+    background: rgba(0,0,0,1);
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: #F57D1F;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.detailsButton {
+    height: 22px;
+    color: #F57D1F;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+a.button:hover {
+    color: #2c87f0;
+    text-decoration: none;
+}
+
+a {
+    color: #2c87f0;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #2c87f0;
+        text-decoration: underline;
+    }
+
+.highlight {
+    color: #f57d1f;
+}
+
+hr.style1 {
+    border-top: 1px solid #8c8b8b;
+    border-bottom: 1px solid #fff;
+}
+
+.verticalLine {
+    border-right: 1px solid #000000;
+}
+
+.social {
+    text-align: center;
+}
+
+    .social a {
+        display: block;
+        padding: 0;
+        margin: 0;
+        width: 40px;
+        height: 40px;
+        background: url(../images/r6_locales_sharing_ico.png) 0 0 no-repeat;
+    }
+
+        .social a.forums {
+            background-position: -280px 0;
+        }
+
+    .social a {
+        display: block;
+        padding: 0;
+        margin: 0;
+        width: 40px;
+        height: 40px;
+        background: url(r6_locales_sharing_ico.png) 0 0 no-repeat;
+    }
+
+.newsTitle {
+    font-family: "scout-condensed", Arial;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.noPadding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+header {
+    background-color: #0A0A0A;
+    margin-bottom: 30px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    z-index: 9999;
+}
+
+    header .tctd-logo {
+        display: block;
+        max-width: 230px;
+        padding: 15px 0 5px 0;
+    }
+
+.headerbar {
+    height: 78px;
+    line-height: 78px;
+    text-transform: uppercase;
+    margin: 25px 0 0 -25px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+section.info {
+    background-color: rgba(255,255,255,1);
+    padding: 0 30px 0 30px;
+    margin-bottom: 0 !important;
+    min-height: 460px;
+}
+
+section.help {
+    background-color: rgba(255,255,255,1);
+    padding: 0 30px 0 30px;
+    margin-bottom: 30px;
+    margin-top: -66px;
+    min-height: 143px;
+}
+
+section.infoDark {
+    background-color: #1d252a;
+    border: 1px solid rgba(255,255,255,0.1);
+    padding: 0 30px 0 5px;
+    margin-bottom: 30px;
+}
+
+.darkText {
+    color: black;
+    margin-bottom: 25px;
+}
+
+h1.titlebar {
+    background-color: #1d252a;
+    height: 35px;
+    font-family: "scout-condensed", Arial;
+    font-size: 24px;
+    line-height: 35px;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin: 0 -30px 30px -30px;
+}
+
+    h1.titlebar > i {
+        font-size: 26px;
+    }
+
+.titlebar,
+.dots-inner {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0 0 0 5px;
+    font: normal normal 22px/40px 'scout', Arial;
+    text-align: left;
+}
+
+    .titlebar i.dl,
+    .titlebar i.dr,
+    .dots-inner i.dl,
+    .dots-inner i.dr {
+        width: 1px;
+        height: 100%;
+        position: absolute;
+    }
+
+    .titlebar i.dl,
+    .dots-inner i.dl {
+        left: 1px;
+        top: 0px;
+    }
+
+    .titlebar i.dr,
+    .dots-inner i.dr {
+        right: 1px;
+        top: 0px;
+    }
+
+        .titlebar i.dl:before,
+        .titlebar i.dl:after,
+        .titlebar i.dr:before,
+        .titlebar i.dr:after,
+        .dots-inner i.dl:before,
+        .dots-inner i.dl:after,
+        .dots-inner i.dr:before,
+        .dots-inner i.dr:after {
+            content: "";
+            display: block;
+            width: 1px;
+            height: 1px;
+            background-color: rgba(255,255,255,0.7);
+            position: absolute;
+        }
+
+    .titlebar i.dl:before,
+    .dots-inner i.dl:before {
+        top: 1px;
+    }
+
+    .titlebar i.dl:after,
+    .dots-inner i.dl:after {
+        bottom: 1px;
+    }
+
+    .titlebar i.dr:before,
+    .dots-inner i.dr:before {
+        top: 1px;
+    }
+
+    .titlebar i.dr:after,
+    .dots-inner i.dr:after {
+        bottom: 1px;
+    }
+
+.twitter-timeline {
+    display: block;
+    padding: 30px;
+}
+
+.twitter-feeds {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    display: inline-table;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+}
+
+    .twitter-feeds > iframe {
+        width: 100% !important;
+    }
+
+footer {
+    padding: 20px 0;
+    margin-bottom: 0px;
+    background-color: rgba(0,0,0,.88);
+}
+
+    footer small {
+        display: block;
+        font-size: 12px;
+        text-align: center;
+        margin-bottom: 20px;
+        line-height: 1.4;
+    }
+
+.localisation-select {
+    padding: 20px 15px;
+    max-width: 280px !important;
+}
+
+ul.social,
+ul.social > li {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul.social {
+    padding: 20px;
+    float: right;
+}
+
+    ul.social > li {
+        display: inline-block;
+        margin: 0 5px;
+    }
+
+        ul.social > li > a {
+            color: #FFFFFF;
+            font-size: 22px;
+        }
+
+            ul.social > li > a:hover {
+                color: #FFFFFF;
+                text-decoration: none;
+            }
+
+small.legal > a {
+    display: inline-block;
+    margin: 0 15px;
+    color: #FFFFFF;
+}
+
+    small.legal > a:hover {
+        color: #FFFFFF;
+        text-decoration: underline;
+    }
+
+h2.statusOk {
+    color: #4A9B0B;
+    font-size: 24px;
+}
+
+h1.statusOk {
+    color: #4A9B0B !important;
+    background-color: rgba(0,0,0,0.66);
+    height: 50px;
+    font-family: "scout", Arial;
+    font-size: 24px;
+    line-height: 50px;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    margin: 0 -30px 0px -30px;
+    text-align: center;
+}
+
+label.custom-select {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 40px;
+    margin: 0;
+}
+
+.custom-select select {
+    display: block;
+    min-width: 180px;
+    width: 100%;
+    height: 40px;
+    padding: 0 26px 0 14px;
+    border: 0;
+    margin: 0;
+    background: rgba(0,0,0,0.88);
+    border: 1px solid rgba(255,255,255,0.2);
+    color: #ffffff;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+    .custom-select select option {
+        font-size: 14px;
+        line-height: 30px;
+    }
+
+select::-ms-expand {
+    display: none;
+}
+
+.custom-select:after {
+    content: "▼";
+    position: absolute;
+    top: 5px;
+    right: 0;
+    bottom: 0;
+    font-size: 86%;
+    line-height: 30px;
+    padding: 0 10px;
+    color: white;
+    pointer-events: none;
+}
+
+.brands {
+    margin-bottom: 40px;
+}
+
+    .brands > .row > div > .row > div {
+        text-align: center;
+    }
+
+    .brands img {
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+
+.br > div:first-child {
+    text-align: right;
+}
+
+.br > div:last-child {
+    text-align: left;
+}
+
+.br > div {
+    text-align: center;
+}
+
+@media only screen and (max-width: 991px) {
+    html {
+        height: 100%;
+        max-height: 100%;
+    }
+
+    .localisation-select {
+        padding: 20px 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .social-stream {
+        text-align: center;
+    }
+
+    ul.social {
+        display: inline-block;
+        margin: 0 auto;
+        text-align: center;
+        float: none;
+    }
+
+    .brands > .row > div > .row > div:first-child {
+        text-align: right;
+    }
+
+    .brands > .row > div > .row > div:last-child {
+        text-align: left;
+    }
+
+    .balance {
+        text-align: center !important;
+    }
+
+    .br > div:first-child,
+    .br > div:last-child {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        padding-top: 90px;
+    }
+
+    section.info {
+        padding: 0 20px 0 20px;
+        margin-bottom: 20px;
+    }
+
+    h1.titlebar {
+        margin: 0 -20px 20px -20px;
+    }
+
+    .brands > .row > div > .row > div:first-child,
+    .brands > .row > div > .row > div:last-child {
+        text-align: center;
+    }
+
+    .spacer {
+        padding-top: 20px;
+    }
+
+    .legendVerticalLine {
+        border-right: 0px solid #000000;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    body {
+        padding-top: 90px;
+    }
+
+    section.info {
+        background-color: rgba(255,255,255,1);
+        padding: 0 15px 0 15px;
+        margin-bottom: 30px;
+        /*min-height: 300px;*/
+    }
+
+    .legendVerticalLine {
+        border-right: 0px solid #000000;
+    }
+
+    .nonews {
+        font-size: 16px;
+        vertical-align: middle;
+        text-align: center;
+        line-height: 18px;
+    }
+
+    section.help {
+        background-color: rgba(255,255,255,1);
+        padding: 0 15px 0 15px;
+        margin-bottom: 30px;
+        margin-top: -40px;
+    }
+
+    section.infoDark {
+        background-color: #1d252a;
+        border: 1px solid rgba(255,255,255,0.1);
+        padding: 0 30px 0 5px;
+        margin-bottom: 15px;
+    }
+
+    .headerMargin {
+        margin-bottom: 30px;
+    }
+
+    ul.social {
+        padding: 15px;
+    }
+
+    .col-xs-hide {
+        display: none !important;
+    }
+
+    h1.titlebar {
+        background-color: #1d252a;
+        height: 35px;
+        font-family: "scout-bold", Arial;
+        font-size: 12px;
+        line-height: 35px;
+        color: #ffffff;
+        text-transform: uppercase;
+        margin: 0 -15px 15px -15px;
+        font-weight: bold;
+    }
+
+    .twitter-feeds,
+    footer {
+        background-color: rgba(0,0,0,0.70);
+    }
+
+        .twitter-feeds > iframe {
+            max-height: 320px !important;
+        }
+
+    .spacer {
+        padding-top: 30px;
+    }
+
+    .button {
+        height: 75px;
+    }
+
+    h2 {
+        font-size: 12px;
+    }
+
+    .pageTitle {
+        height: 35px;
+        line-height: 35px;
+    }
+
+    .alignElements {
+        text-align: center;
+    }
+
+    header .tctd-logo {
+        display: inline-block;
+        margin: auto;
+    }
+}
