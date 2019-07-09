@@ -177,7 +177,7 @@ hr.style1 {
         margin: 0;
         width: 40px;
         height: 40px;
-        background: url(../images/r6_locales_sharing_ico.png) 0 0 no-repeat;
+        /* background: url(../images/r6_locales_sharing_ico.png) 0 0 no-repeat; */
     }
 
         .social a.forums {
@@ -190,7 +190,7 @@ hr.style1 {
         margin: 0;
         width: 40px;
         height: 40px;
-        background: url(r6_locales_sharing_ico.png) 0 0 no-repeat;
+        /* background: url(r6_locales_sharing_ico.png) 0 0 no-repeat; */
     }
 
 .newsTitle {
