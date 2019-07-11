@@ -6,7 +6,7 @@
 
 @font-face {
 	font-family:'R6S-Showdown';
-	src:url('r6-showdown-regular.woff') format('woff'),url('r6-showdown-regular.woff2') format('woff2');
+	src:url('https://static2.cdn.ubi.com/gamesites/rainbow6/events/showdown/r6-showdown-regular.woff') format('woff'),url('https://static2.cdn.ubi.com/gamesites/rainbow6/events/showdown/r6-showdown-regular.woff2') format('woff2');
 	font-weight:normal;
 	font-style:normal;
 }
@@ -17,7 +17,7 @@
 
 
 .r6_homepage, .r6_homepage a, .r6_homepage a:hover {
-	cursor: url('https://static2.cdn.ubi.com/gamesites/rainbow6/events/showdown/r6-showdown-gun-scope.cur') 24 24 , url('r6-showdown-gun-scope.png') 24 24, url('https://static2.cdn.ubi.com/gamesites/rainbow6/events/showdown/r6-showdown-gun-scope-ie.cur'), auto;
+	cursor: url('https://static2.cdn.ubi.com/gamesites/rainbow6/events/showdown/r6-showdown-gun-scope.cur') 24 24 , url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-gun-scope.png') 24 24, url('https://static2.cdn.ubi.com/gamesites/rainbow6/events/showdown/r6-showdown-gun-scope-ie.cur'), auto;
 }
 
 
@@ -25,7 +25,7 @@
 	bottom:-20px;
 	width: 150px;
 	height: 150px;
-	background-image: url('r6-showdown-tumbleweed.png');
+	background-image: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-tumbleweed.png');
 	background-size: cover;
 	position: absolute;
 	z-index:1;
@@ -37,7 +37,7 @@
 .bullet-hole {
 	width: 20px;
 	height: 20px;
-	background-image: url('r6-showdown-bullethole.png');
+	background-image: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-bullethole.png');
 	background-size: cover;
 	position: absolute;
 	z-index:10000;
@@ -50,7 +50,7 @@
 	z-index:10;
 	bottom:20px;
 	right:10px;
-	background:url('r6-showdown-pistol-barrel.png') no-repeat;
+	background:url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-pistol-barrel.png') no-repeat;
 	background-size: contain;
 	background-position: 50%;
 }
@@ -67,7 +67,7 @@
 	z-index:10;
 	bottom:-400px;
 	left:0;
-	background: url(r6-showdown-wood.png);
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-wood.png');
 	background-position: 50% 100%;
 	background-repeat-x: repeat;
 	background-repeat-y: no-repeat;
@@ -94,7 +94,7 @@
 	z-index:10;
 	bottom:-100px;
 	right:10px;
-	background: url(r6-showdown-close.png);
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-close.png');
 	background-size: contain;
 	background-position: 50%;
 
@@ -151,61 +151,61 @@
 /* WESTERN SKINKS */
 
 #target.target_1 {
-	background: url(r6-showdown-western-alibi.png) no-repeat;
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-alibi.png') no-repeat;
 	background-size: cover;
 	width: 210px;
 	height:280px;
 }
 #target.target_2 {
-	background: url(r6-showdown-western-ash.png) no-repeat;
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-ash.png') no-repeat;
 	background-size: cover;
 	width: 292px;
 	height:280px;
 }
 #target.target_3 {
-	background: url(r6-showdown-western-capitao.png) no-repeat;
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-capitao.png') no-repeat;
 	background-size: cover;
 	width: 260px;
 	height:280px;
 }
 #target.target_4 {
-	background: url(r6-showdown-western-caveira.png) no-repeat;
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-caveira.png') no-repeat;
 	background-size: cover;
 	width: 204px;
 	height:280px;
 }
 #target.target_5 {
-	background: url(r6-showdown-western-glaz.png) no-repeat;
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-glaz.png') no-repeat;
 	background-size: cover;
 	width: 258px;
 	height:280px;
 }
 #target.target_6 {
-	background: url(r6-showdown-western-kaid.png) no-repeat;
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-kaid.png') no-repeat;
 	background-size: cover;
 	width: 191px;
 	height:280px;
 }
 #target.target_7 {
-	background: url(r6-showdown-western-maestro.png) no-repeat;
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-maestro.png') no-repeat;
 	background-size: cover;
 	width: 297px;
 	height:280px;
 }
 #target.target_8 {
-	background: url(r6-showdown-western-maverick.png) no-repeat;
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-maverick.png') no-repeat;
 	background-size: cover;
 	width: 289px;
 	height:280px;
 }
 #target.target_9 {
-	background: url(r6-showdown-western-rook.png) no-repeat;
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-rook.png') no-repeat;
 	background-size: cover;
 	width: 250px;
 	height:280px;
 }
 #target.target_10 {
-	background: url(r6-showdown-western-twitch.png) no-repeat;
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-twitch.png') no-repeat;
 	background-size: cover;
 	width: 216px;
 	height:280px;
@@ -279,7 +279,7 @@
 	border: 1px solid #603d31!important;
 }
 .home-header-content {
-	background: url(r6-showdown-wanted.png);
+	background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-wanted.png');
 	background-color: transparent!important;
 	border: 0!important;
 	background-size: 100% 100%;
@@ -330,21 +330,21 @@ h1, h2 {
 .row_home_news {
 	position:relative;
 	z-index: 2;
-	background: linear-gradient( to right, rgba(96,61,49, 0.40), rgba(96,61,49, 0.40)) , url(r6-siege-home-news-bg.jpg) 50% 50% no-repeat!important;
+	background: linear-gradient( to right, rgba(96,61,49, 0.40), rgba(96,61,49, 0.40)) , url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-siege-home-news-bg.jpg') 50% 50% no-repeat!important;
 	background-size: cover!important;
 }
 
 .row_home_promoslot {
 	position:relative;
 	z-index: 2;
-	background: linear-gradient( to right, rgba(96,61,49, 0.40), rgba(96,61,49, 0.40)) , url(r6-siege-home-promo-bg.jpg) 50% 50% no-repeat!important;
+	background: linear-gradient( to right, rgba(96,61,49, 0.40), rgba(96,61,49, 0.40)) , url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-siege-home-promo-bg.jpg') 50% 50% no-repeat!important;
 	background-size: cover!important;
 }
 
 .row_home_operators {
 	position:relative;
 	z-index: 2;
-	background: linear-gradient( to right, rgba(96,61,49, 0.40), rgba(96,61,49, 0.40)) , url(r6-siege-home-operators-bg.jpg) 50% 50% no-repeat!important;
+	background: linear-gradient( to right, rgba(96,61,49, 0.40), rgba(96,61,49, 0.40)) , url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-siege-home-operators-bg.jpg') 50% 50% no-repeat!important;
 	background-size: cover!important;
 }
 
@@ -449,61 +449,61 @@ body.ncsa #pistol_barrel {
 	
 	/* WESTERN SKINKS */
 	#target.target_1 {
-		background: url(r6-showdown-western-alibi.png) no-repeat;
+		background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-alibi.png') no-repeat;
 		background-size: cover;
 		width: 140px;
 		height:186px;
 	}
 	#target.target_2 {
-		background: url(r6-showdown-western-ash.png) no-repeat;
+		background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-ash.png') no-repeat;
 		background-size: cover;
 		width: 194px;
 		height:186px;
 	}
 	#target.target_3 {
-		background: url(r6-showdown-western-capitao.png) no-repeat;
+		background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-capitao.png') no-repeat;
 		background-size: cover;
 		width: 173px;
 		height:186px;
 	}
 	#target.target_4 {
-		background: url(r6-showdown-western-caveira.png) no-repeat;
+		background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-caveira.png') no-repeat;
 		background-size: cover;
 		width: 136px;
 		height:186px;
 	}
 	#target.target_5 {
-		background: url(r6-showdown-western-glaz.png) no-repeat;
+		background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-glaz.png') no-repeat;
 		background-size: cover;
 		width: 171px;
 		height:186px;
 	}
 	#target.target_6 {
-		background: url(r6-showdown-western-kaid.png) no-repeat;
+		background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-kaid.png') no-repeat;
 		background-size: cover;
 		width: 126px;
 		height:186px;
 	}
 	#target.target_7 {
-		background: url(r6-showdown-western-maestro.png) no-repeat;
+		background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-maestro.png') no-repeat;
 		background-size: cover;
 		width: 197px;
 		height:186px;
 	}
 	#target.target_8 {
-		background: url(r6-showdown-western-maverick.png) no-repeat;
+		background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-maverick.png') no-repeat;
 		background-size: cover;
 		width: 193px;
 		height:186px;
 	}
 	#target.target_9 {
-		background: url(r6-showdown-western-rook.png) no-repeat;
+		background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-rook.png') no-repeat;
 		background-size: cover;
 		width: 166px;
 		height:186px;
 	}
 	#target.target_10 {
-		background: url(r6-showdown-western-twitch.png) no-repeat;
+		background: url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-showdown-western-twitch.png') no-repeat;
 		background-size: cover;
 		width: 144px;
 		height:186px;
@@ -671,7 +671,7 @@ body.ncsa #pistol_barrel {
 /***********************************************************************
 	NEWS
 ***********************************************************************/
-.row_home_news						{ padding:3.75% 0; background:#0d0d0d url('r6-siege-home-news-bg.jpg') 50% 50% no-repeat; background-size:cover; overflow:hidden; }
+.row_home_news						{ padding:3.75% 0; background:#0d0d0d url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-siege-home-news-bg.jpg') 50% 50% no-repeat; background-size:cover; overflow:hidden; }
 
 .row_home_news {
 	display:-ms-flexbox; display:-webkit-box; display:-webkit-flex; display:flex;
@@ -764,7 +764,7 @@ body.ncsa #pistol_barrel {
 /***********************************************************************
 	PROMO
 ***********************************************************************/
-.row_home_promoslot			{ /*height:15vw;*/ padding:1.25% 0; background:#0d0d0d url('r6-siege-home-promo-bg.jpg') 50% 50% no-repeat; background-size:cover; overflow:hidden; }
+.row_home_promoslot			{ /*height:15vw;*/ padding:1.25% 0; background:#0d0d0d url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-siege-home-promo-bg.jpg') 50% 50% no-repeat; background-size:cover; overflow:hidden; }
 .c_home_promoslot			{ margin:0 auto; width:75%; }
 
 .home-promoslot				{
@@ -791,7 +791,7 @@ body.ncsa #pistol_barrel {
 /***********************************************************************
 	OPERATORS
 ***********************************************************************/
-.row_home_operators			{ background:#0d0d0d url('r6-siege-home-operators-bg.jpg') 50% 50% no-repeat; background-size:cover; overflow:hidden; }
+.row_home_operators			{ background:#0d0d0d url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-siege-home-operators-bg.jpg') 50% 50% no-repeat; background-size:cover; overflow:hidden; }
 /*.c_home_operators			{ margin:0 auto; width:75%; text-align:center; }*/
 
 .home-operators				{ height:100%; }
@@ -840,7 +840,7 @@ body.ncsa #pistol_barrel {
 /***********************************************************************
 	ESPORTS
 ***********************************************************************/
-.row_home_esports			{ /*height:30vw;*/ padding:3.75% 0; background:#0d0d0d url('r6-siege-home-esports-bg.jpg') 50% 50% no-repeat; background-size:cover; overflow:hidden; }
+.row_home_esports			{ /*height:30vw;*/ padding:3.75% 0; background:#0d0d0d url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-siege-home-esports-bg.jpg') 50% 50% no-repeat; background-size:cover; overflow:hidden; }
 
 .c_home_esports				{ margin:0 auto; width:75%; }
 
@@ -887,8 +887,8 @@ body.ncsa #pistol_barrel {
 .home-6invitational-intro h4			{ margin:0 0 30px 0; color:#000; text-transform:none; text-shadow:1px 1px 1px rgba(255, 255, 255, 0.5); }
 .home-6invitational-intro > a			{ position:relative; display:block; margin:0 auto; width:75%; border:2px solid #fff; }
 .home-6invitational-intro > a:hover		{ border:2px solid #36a9e0; }
-.home-6invitational-intro > a:after		{ position:absolute; left:0; top:0; content:""; display:block; margin:0 auto; width:100%; height:100%; background:url('r6-play.png') 50% 50% no-repeat; background-size:auto 50%; }
-.home-6invitational-intro > a:hover:after		{ background:url('r6-play-hover.png') 50% 50% no-repeat; background-size:auto 50%; }
+.home-6invitational-intro > a:after		{ position:absolute; left:0; top:0; content:""; display:block; margin:0 auto; width:100%; height:100%; background:url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-play.png') 50% 50% no-repeat; background-size:auto 50%; }
+.home-6invitational-intro > a:hover:after		{ background:url('https://ubistatic19-a.akamaihd.net/resource/zh-tw/game/rainbow6/siege-v3/r6-play-hover.png') 50% 50% no-repeat; background-size:auto 50%; }
 
 .home-6invitational-intro img			{ display:block; width:100%; max-width:100%; }
 
