@@ -1,8 +1,8 @@
 {
-    "version":"1.0.0",
-    "model":"https://cdn.jsdelivr.net/gh/xieqiqiang00/r6sground.cn/res/jscss/live2d/model.moc",
+    "version":"1.0.1",
+    "model":"model.moc",
     "textures":[
-        "https://cdn.jsdelivr.net/gh/xieqiqiang00/r6sground.cn/res/jscss/live2d/default-costume.png"
+        "default-costume.png"
     ],
     "layout":{
         "center_x":0.3,
