@@ -10,7 +10,7 @@ https://r6sground.cn/live2d/css/live2d.css
 https://r6sground.cn/index/play.png
 https://r6sground.cn/index/pause.png
 https://r6sground.cn/index/video_cover.jpeg
-https://r6sground.cn/stats/r6sg-Config.js?v=11583599508
+https://r6sground.cn/stats/r6sg-Config.js?v=11589535709
 https://r6sground.cn/live2d/js/live2d.js
 https://r6sground.cn/live2d/model/tia/model.json
 https://r6sground.cn/live2d/model/tia/model.moc
